@@ -1,0 +1,10 @@
+.app_input {
+  padding: 15px;
+  font-size: 15px;
+  width: 250px;
+}
+
+.app_input:focus,
+.app_input:active {
+  border: none;
+}
